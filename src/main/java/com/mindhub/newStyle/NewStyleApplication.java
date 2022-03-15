@@ -85,6 +85,8 @@ public class NewStyleApplication {
 			repositorioProducto.save(productoBotoxCabello);
 			repositorioProducto.save(productoAntiFrizz);
 
+			//asdads
+
 			repositorioCliente.save(cliente1);
 			repositorioCliente.save(admin);
 
